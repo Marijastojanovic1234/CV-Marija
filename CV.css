@@ -1,0 +1,15 @@
+
+
+.w3-light-grey, .w3-hover-light-grey:hover, .w3-light-gray, .w3-hover-light-gray:hover {
+    color: #000!important;
+    background-color: #9c27b024!important;
+}
+
+.w3-text-teal, .w3-hover-text-teal:hover {
+    color: #9c27b0!important;
+}
+
+.w3-teal, .w3-hover-teal:hover {
+    color: #fdf5e6!important;
+    background-color: #9c27b0!important;
+}
